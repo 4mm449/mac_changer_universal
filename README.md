@@ -12,7 +12,6 @@ cd mac_changer_universal
 ```
 Run the script with python3
 ```
-
 python3 mac_changer.py
 ```
 Follow the instructions given by the program
