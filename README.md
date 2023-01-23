@@ -19,14 +19,14 @@ Follow the instructions given by the program
 ### The script will change the MAC address of the specified interface and print the new MAC address for verification.
 
 ## Note
-On macOS, the script requires sudo privileges to change the MAC address.
+On macOS and Linux, the script requires sudo privileges to change the MAC address.
 On Windows, you need to run the script in administrator mode.
 ## Contribution
 If you want to improve or fix something, feel free to submit a pull request.
 Any suggestion or feedback will be highly appreciated.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
 ## Author
 Author: [4im](www.github.com/4mm449) 
